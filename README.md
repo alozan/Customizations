@@ -1,2 +1,1 @@
-# Customizations
-Customs
+Customizations de terminales y eso
